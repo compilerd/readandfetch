@@ -1,1 +1,1 @@
-Display employee details from csv file, filter by location,dob,designation.
+This program takes input from the user in form of either location or date of birth or designation.Performs a search operation on the given csv file and display name,dob,designation and location with the respective user input respectively
